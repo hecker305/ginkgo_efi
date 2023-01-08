@@ -1,0 +1,240 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/belarus1.png",Беларусь 1
+http://178.124.183.5/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/belarus2.png",Беларусь 2
+http://178.124.183.5/hls/GCKYZGGFEJ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/belarus3.png",Беларусь 3
+http://178.124.183.5/hls/TSNEW37RPC_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/belarus5.png",Беларусь 5
+http://178.124.183.5/hls/JRKVSUPCP8_HLS/variant.m3u8?version=2
+#EXTINF:-1,Беларусь 4 Брест
+http://178.124.183.5/hls/CH_BELARUS4BR_HLS/variant.m3u8?version=2
+#EXTINF:-1,Беларусь 4 Гродно
+http://178.124.183.5/hls/CH_BELARUS4GR_HLS/variant.m3u8?version=2
+#EXTINF:-1,Беларусь 4 Витебск
+http://178.124.183.5/hls/CH_BELARUS4VIT_HLS/variant.m3u8?version=2
+#EXTINF:-1,Беларусь 4 Могилев
+http://178.124.183.5/hls/CH_BELARUS4MOG_HLS/variant.m3u8?version=2
+#EXTINF:-1,Беларусь 4 Гомель
+http://178.124.183.5/hls/CH_BELARUS4GOM_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/ont.png",ОНТ
+http://178.124.183.5/hls/NCLEFHVZGR_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/ctvby.png",СТВ
+http://178.124.183.5/hls/RZEQ3BLSTY_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rtrby.png",РТР-Беларусь
+http://178.124.183.5/hls/7MQSYYGHFE_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/ntvby.png",НТВ Беларусь
+http://178.124.183.5/hls/DYJ5GH8HOK_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/mir.png",Мир HD
+http://178.124.183.5/hls/ZXUZZKCA6P_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/vtv.png",ВТВ
+http://178.124.183.5/hls/CRCQFRNUFJ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/8channelby.png",8 канал
+http://178.124.183.5/hls/ZXUZZKCA6P_HLS/variant.m3u8?version=2
+#EXTINF:-1,ЯСНАе TV
+http://178.124.183.5/hls/CH_MINSKTV_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tntint.png",ТНТ international
+http://178.124.183.5/hls/MVNP5DA4U9_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/souz.png",Союз
+http://178.124.183.5/hls/CH_SOYUZ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/euronews.png",Euronews
+http://178.124.183.5/hls/C5P6YOXJZT_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/bbc.png",ББК
+http://178.124.183.5/hls/MCEQ4XBTHP_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rtvi.png",RTVI
+http://178.124.183.5/hls/PN9VRQ5DGR_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/russiak.png",Россия К
+http://178.124.183.5/hls/9XJGVFFAWZ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/sarafan.png",Сарафан
+http://178.124.183.5/hls/Y9GP8UFTZO_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/setanta.png",Setanta Sports HD
+http://178.124.183.5/hls/FWHTTL8YXU_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/setantaPlus.png",Setanta Sports+ HD
+http://178.124.183.5/hls/5T3FNFICQ4_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/russiaExtreme.png",Russian Extreme
+http://178.124.183.5/hls/6FPPFYT4RG_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rtg.png",RTG HD
+http://178.124.183.5/hls/7NTSTCRXQW_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/travelAdventure.png",Travel+Adventure
+http://178.124.183.5/hls/TRH5A5QCPD_HLS/variant.m3u8?version=2
+#EXTINF:0  tvg-logo="http://p.vladna.club/logo/okhotnikRybolov.png",Oхотник и Рыболов HD
+http://178.124.183.5/hls/4FDNBEDGFV_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/okhotaRybalka.png",Охота и Рыбалка
+http://178.124.183.5/hls/VF5ELDF8AL_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/usadba.png",Усадьба
+http://178.124.183.5/hls/XMC4NSRVN9_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/kuhna.png",Кухня ТВ
+http://178.124.183.5/hls/EPX2UEHLPK_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/hdl.png",HDL
+http://178.124.183.5/hls/WGANFGLWPD_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/oruzhie.png",Оружие
+http://178.124.183.5/hls/EWEXU8FWAZ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/drive.png",Драйв
+http://178.124.183.5/hls/6UTCEG6ATO_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/viasatExplore.png",Viasat Explore
+http://178.124.183.5/hls/JQQ83OBHTQ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/viasatHistory.png",Viasat History
+http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/viasatNature.png",Viasat Nature
+http://178.124.183.5/hls/BN3FTDY3T8_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/history.png",History
+http://178.124.183.5/hls/CH_HISTORY_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/galaxy.png",GALAXY
+http://178.124.183.5/hls/CH_GALAXY_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/sovsek.png",Совершенно Секретно
+http://178.124.183.5/hls/CH_SOVERSHENNOSEKRETNO_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/nostalgy.png",Ностальгия
+http://178.124.183.5/hls/SWPQU2UFKD_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/edapremium.png",ЕДА ПРЕМИУМ HD
+http://178.124.183.5/hls/BCPKKUK5NT_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/wfc.png",WFC
+http://178.124.183.5/hls/VTFWSVERF5_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/natgeo.png",National Geographic Channel
+http://178.124.183.5/hls/CH_NATGEO_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/natgeowild.png",Nat Geo Wild
+http://178.124.183.5/hls/ESCMSBZJ8X_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/nauka.png",Наука
+http://178.124.183.5/hls/LWWBCKZAPZ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/moyaPlaneta.png",Моя планета
+http://178.124.183.5/hls/FV47BRVQW4_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/techno24.png",Техно 24
+http://178.124.183.5/hls/ZIVFRAFR2I_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/eureka.png",Eureka
+http://178.124.183.5/hls/KBHOKBYSSX_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv3belarus.png",ТВ-3 Беларусь
+http://178.124.183.5/hls/KLQQ9ECGSQ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv1000.png",TV1000
+http://178.124.183.5/hls/6WMZMUEWGN_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv1000rukino.png",TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv1000action.png",TV1000 Action
+http://178.124.183.5/hls/9X9NUEEKGW_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/fox.png",FOX
+http://178.124.183.5/hls/CH_FOX_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/foxlife.png",FOX Life
+http://178.124.183.5/hls/CH_FOXL_HLS/variant.m3u8?version=2
+#EXTINF:-1,СТС Kids
+http://178.124.183.5/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
+#EXTINF:-1,Советское Кино
+http://178.124.183.5/hls/CH_SOVKINO_HLS/variant.m3u8?version=2
+#EXTINF:-1,Советские Мультфильмы
+http://178.124.183.5/hls/CH_SOVMULT_HLS/variant.m3u8?version=2
+#EXTINF:-1,BOLT
+http://178.124.183.5/hls/CH_BOLT_HLS/variant.m3u8?version=2
+#EXTINF:-1,STAR CINEMA
+http://178.124.183.5/hls/CH_STARCINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1,STAR FAMILY
+http://178.124.183.5/hls/CH_FAMILY_HLS/variant.m3u8?version=2
+#EXTINF:-1,Киносерия
+http://178.124.183.5/hls/CH_KINOSERIA_HLS/variant.m3u8?version=2
+#EXTINF:-1,365 дней ТВ
+http://178.124.183.5/hls/CH_365DNEY_HLS/variant.m3u8?version=2
+#EXTINF:-1,Ля-минор ТВ
+http://178.124.183.5/hls/CH_LYAMINOR_HLS/variant.m3u8?version=2
+#EXTINF:0,Наше Новое Кино
+http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
+#EXTINF:0,Кинопремьера HD
+http://178.124.183.5/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
+#EXTINF:0,Родное Кино
+http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:0,Наше любимое кино
+http://178.124.183.5/hls/CH_NASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:0,Индийское кино
+http://178.124.183.5/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
+#EXTINF:0,Еврокино
+http://178.124.183.5/hls/JEDUS3FS7V_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/kinomix.png",Киномикс
+http://178.124.183.5/hls/VVG76MWUGX_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/kinohit.png",Кинохит
+http://178.124.183.5/hls/HDOHSSZQCP_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/ruIlluzion.png",Русский Иллюзион
+http://178.124.183.5/hls/CMV4SNACFQ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/illuzionPlus.png",Иллюзион +
+http://178.124.183.5/hls/V8TRED4CZL_HLS/variant.m3u8?version=2
+#EXTINF:0,Мужское кино
+http://178.124.183.5/hls/W7LNWHFGTB_HLS/variant.m3u8?version=2
+#EXTINF:0,Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8_HLS/variant.m3u8?version=2
+#EXTINF:0,Sony Channel HD
+http://178.124.183.5/hls/VPRSUR2WN2_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/amedia1.png",Amedia 1 HD
+http://178.124.183.5/hls/CH_AMEDIA_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/amedia2.png",Amedia 2
+http://178.124.183.5/hls/H4DP5GK3AE_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/amediaHit.png",Amedia Hit HD
+http://178.124.183.5/hls/CH_AMEDIAHIT_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/amediaPremium.png",Amedia Premium HD
+http://178.124.183.5/hls/CH_AMEDIAPREMIUM_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/nst.png",НСТ
+http://178.124.183.5/hls/NEZVX5TVZX_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rutv.png",RU TV
+http://178.124.183.5/hls/XW6AGFSZJ8_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/shanson.png",Шансон ТВ
+http://178.124.183.5/hls/3K2MEWVSDF_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/europaplus.png",Europa Plus TV
+http://178.124.183.5/hls/BHH8EKRXPO_HLS/variant.m3u8?version=2
+#EXTINF:0,1HD Music Television
+http://178.124.183.5/hls/Q2WSPUHMME_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tntMusic.png",ТНТ Music
+http://178.124.183.5/hls/BCJGRB3KAX_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/jara.png",Жара
+http://178.124.183.5/hls/DXBSFZDTDG_HLS/variant.m3u8?version=2
+#EXTINF:0,Детский Мир
+http://178.124.183.5/hls/9F67L3DGIF_HLS/variant.m3u8?version=2
+#EXTINF:0,Детский
+http://178.124.183.5/hls/29EYV8AKKV_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/multimania.png",Мультимания
+http://178.124.183.5/hls/FBYQ8KG5HM_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/mult.png",Мульт
+http://178.124.183.5/hls/5MWF7XUWZI_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/cartoonNetwork.png",Cartoon Network
+http://178.124.183.5/hls/CNVX7JRQJI_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/boomerang.png",Boomerang
+http://178.124.183.5/hls/JSQ2S6VQTE_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/2x2.png",2x2
+http://178.124.183.5/hls/EU9VTLDQCN_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/gulli.png",Gulli Girl
+http://178.124.183.5/hls/7FFGONY2N8_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tiji.png",Tiji
+http://178.124.183.5/hls/Q0HVVEIKSQ_HLS/variant.m3u8?version=2
+#EXTINF:0,Киносемья
+http://178.124.183.5/hls/FEDXG8XPOR_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/skazka.png",В гостях у сказки
+http://178.124.183.5/hls/CH_VGOSTYAH_HLS/variant.m3u8?version=2
+#EXTINF:0  tvg-logo="http://p.vladna.club/logo/radost.png",Радость моя
+http://178.124.183.5/hls/CH_RADOST_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rusnight.png",Русская Ночь
+http://178.124.183.5/hls/F7UMYQMCGB_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/bluehustler.png",Blue Hustler
+http://178.124.183.5/hls/CH_BLUEHUSTLER_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/nuart.png",Nuart TV
+http://178.124.183.5/hls/CH_NYARTTV_HLS/variant.m3u8?version=2
+#EXTINF:0,Телемагазин
+http://178.124.183.5/hls/CH_TELEMAGAZIN_HLS/variant.m3u8?version=2
+#EXTINF:0,БОБРУЙСК 360
+#EXTGRP:Региональные
+http://178.124.183.5/hls/CH_BOBRUISK_HLS/variant.m3u8?version=2
+#EXTINF:0,БУГ-ТВ
+#EXTGRP:Региональные
+http://178.124.183.5/hls/CH_BUGTV_HLS/variant.m3u8?version=2
+#EXTINF:0,Лагуна-ТВ
+#EXTGRP:Региональные
+http://178.124.183.5/hls/CH_LAGUNA_HLS/variant.m3u8?version=2
+#EXTINF:0,ТВТ
+#EXTGRP:Региональные
+http://178.124.183.5/hls/CH_TVT_HLS/variant.m3u8?version=2
+#EXTINF:0,Скиф
+#EXTGRP:Региональные
+http://178.124.183.5/hls/CH_SKIF_HLS/variant.m3u8?version=2
+#EXTINF:0,Гродно Плюс
+#EXTGRP:Региональные
+http://178.124.183.5/hls/CH_GRODNO_HLS/variant.m3u8?version=2
+#EXTINF:0,ЛИДА ТВ
+#EXTGRP:Региональные
+http://178.124.183.5/hls/CH_LIDA_HLS/variant.m3u8?version=2
+#EXTINF:0,Светлое ТВ
+#EXTGRP:Региональные
+http://178.124.183.5/hls/CH_SVETLOE_HLS/variant.m3u8?version=2
+#EXTINF:0,Вектор ТВ
+#EXTGRP:Региональные
+http://178.124.183.5/hls/CH_VECTOR_HLS/variant.m3u8?version=2
